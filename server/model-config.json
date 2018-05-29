@@ -34,8 +34,5 @@
   "Role": {
     "dataSource": "mysql",
     "public": false
-  },
-  "Note": {
-    "dataSource": "mysql"
   }
 }
